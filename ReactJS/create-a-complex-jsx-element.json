@@ -1,1 +1,0 @@
-{"index.jsx":"// write your code here\nconst JSX = <div>\n<h1>\nThe First page of my react story\n</h1>\n\n<p>\nFirst paragraph of my react story</p>\n<ul>\n<li> Firt ordered list </li>\n<li> Second ordered list </li>\n<li> Third ordered list </li>\n</ul>\n</div>\n"}
